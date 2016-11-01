@@ -6,3 +6,5 @@ You have the Code::Blocks's proyect files for those who use it. If you use anoth
 Not warraty. If it breaks, you can keep both pieces.
 
 I may or may not work futher on this.
+
+Read more at: http://boards.las.leagueoflegends.com/es/c/creaciones-de-la-comunidad/aXO8xApf-programa-medidor-de-ping-herramienta-de-tracert-versian-10 (Spanish)
